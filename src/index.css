@@ -3,3 +3,79 @@
 html,body{
   background-color: #5eb5b8;
 }
+
+.appbox{
+  background-color: hsl(168, 65%, 81%);
+  border-radius: 30px;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+.form-control{
+  border-radius: 20px;
+  height: 50px;
+  background-color: #a5cdd2;
+
+}
+
+.btn-info{
+  color: aliceblue;
+  text-align: center;
+  border: none;
+  border-radius: 15px;
+  height: 50px;
+  width: 100%;
+}
+
+.nodata-container{
+  padding: 100px 0 0 0;
+  text-align: center;
+}
+
+.info_box{
+  height: 250px;
+  width: 100%;
+}
+
+h1{
+  color: #5eb5b8;
+  font-weight: 800;
+  font-family: sans-serif Open Sans;
+
+}
+
+.condition{
+  text-align: center;
+  height: 160xp;
+  width: 100%;
+  text-align: center;
+
+}
+
+h2{
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 80px;
+}
+
+.temp{
+  
+  height: 40px;
+  margin-left: 70px;
+}
+
+.info{
+  text-align: right;
+  height: 100px;
+  margin-left: 600px;
+  justify-content: center;
+
+}
+
+.day{
+  background-color: hsl(168, 65%, 81%);
+  border-radius: 12px;
+  text-align: center;
+  padding: 30px 0;
+  margin-top: 50px;
+}
